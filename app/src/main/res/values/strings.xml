@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Challenge_App</string>
+
+    <string name="day1T">Success is No Accident</string>
+    <string name="day1B">Famous soccer athlete, Pele who appeared to be born with plenty of natural talent, continues this quote by adding “It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.”</string>
+
+    <string name="day2T">Success is Not Final, Failure is Not Fatal: it is the Courage to Continue that Counts</string>
+    <string name="day2B">This quote by Winston Churchill really puts the life cycle of an entrepreneur in perspective. Failure won’t kill you, if you don’t let it. Experiencing this can give you more courage to try again. Even when you ‘make it’ and raise a lot of money or sell your company, life isn’t over. You might unfortunately, have a much clearer picture of the struggles, but then you get to start again with a new startup, or become an angel investor yourself.</string>
+
+    <string name="day3T">Don’t Count the Days, Make the Days Count</string>
+    <string name="day3B">Don’t worry so much about how long you’ve been doing it. Make today count. Focus on what you can do right now. That advice seemed to work well for Muhammed Ali. It can serve you well too, by keeping you in motion and not worrying about the past or future, of which you have no control over.</string>
+
+    <string name="day4T">He Who is Not Courageous Enough to Take Risks Will Accomplish Nothing in Life</string>
+    <string name="day4B">Another great quote by Muhammad Ali. As a founder of a company it is wise to try and de-risk your venture by learning as much as you can and testing as much as you can, step by step. Yet, at some point you will have to take calculated risks. That doesn’t mean you won’t have to deal with fear or doubt. You just have to act anyway.</string>
+
+    <string name="day5T">Don’t Wait for Opportunity, Create it</string>
+    <string name="day5B">This quote by George Bernard Shaw is a critical one for every entrepreneur who will succeed through both good and bad times and bull runs and recessions. Sometimes business and revenues will come easy. Other times you need to create it.</string>
+
+    <string name="day6T">Either Run the Day or the Day Runs You</string>
+    <string name="day6B">Quote by Jim Rohn. There is enough junk and busy work that will pop up every single day to keep you busy and prevent you from taking action on your goals for many lifetimes. If you are going to get anywhere you’ve got to learn to master your time, and take control of your own schedule. No matter what is going on out there.</string>
+
+    <string name="day7T"> When You Feel Like Quitting, Remember Why You Started</string>
+    <string name="day7B">It does’t matter how strong, tough, intelligent or positive you are. There will be days you are tempted to quit. The difference in the successful is they are the few that don’t. This is why knowing your core why is so important upfront. Remind yourself of it daily. Pivot, change tactics, get help, take a break, just don’t quit.</string>
+
+    <string name="day8T">Great Things Never Come From Comfort Zones</string>
+    <string name="day8B">When you stop stepping out of your comfort zone, you stop growing, and stop doing the most amazing work you can. If you just can’t drag yourself off the couch, get a permit, take it outside and burn it along with your TV then do what you really want to.</string>
+
+    <string name="day9T">The Real Risk is Doing Nothing</string>
+    <string name="day9B">Quote from Denis Waitley. The truth is that what you think is your comfort zone is probably the riskiest place you can be sitting. Watch out. One day you’ll find out just how risky it is. Unless you get moving now.</string>
+
+    <string name="day10T">Success is Walking from Failure to Failure</string>
+    <string name="day10B">Another great quote by Winston Churchill. You may not see all the failures your idols go through, but you can bet there are a lot of them. In fact, the more successful, the more failures that have been clocked up. This is especially true for startup entrepreneurs. Just ask Elon Musk. It’s all about being willing to try something, even if you expect it to fail.</string>
+
+    <string name="day11T">Action is the Foundational Key to Success</string>
+    <string name="day11B">This quote by Pablo Picasso is as true today as when he began painting. Imagine if he kept all those images in his head instead of putting pain to canvas? What a tragedy that would have been.</string>
+
+    <string name="day12T">In the End We Only Regret the Chances We Did’t Take</string>
+    <string name="day12B">In a recent episode of the DealMakers podcast I interviewed Eugenio Pace. He had a cushy job at Microsoft. Then he and his wife decided that by not trying their dream of building a company from the ground up it would be too much of a regret to live and die with. He quit, launched Auth0, and the rest is history.</string>
+
+    <string name="day13T">Success isn’t Always about Greatness. It’s about Consistency</string>
+    <string name="day13B">Dwayne ‘The Rock’ Johnson adds that “Consistent hard work leads to success. Greatness will come.” Sometimes even the consistency itself is the greatest success and what people remember. Dream big, start doing the small stuff well. Repeat every day.</string>
+
+    <string name="day14T">Success is Where Preparation And Opportunity Meet</string>
+    <string name="day14B">This quote from race car driver Bobby User comes from someone you’d guess just got there from putting their put all the way on the gas. Not so. It is especially important today for entrepreneurs to be prepared. There are always opportunities. You can’t make the most of them unless you are ready.</string>
+
+    <string name="day15T">80% of Success is Showing Up</string>
+    <string name="day15B">This quote is from Woody Allen. Sometimes all you need to win is to be the one to show up. Sometimes it is just showing up at the right time and place. Other times it is showing up again and again. At networking events, at pitch nights, with email updates for investors, and with your sales pitch for B2B and B2C users.</string>
+
+</resources>
